@@ -1,0 +1,1613 @@
+﻿Log file open, 04/10/21 18:18:44
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AITestProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.754921
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/vladekintheshell/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.10-15.18.46:665][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.10-15.18.46:665][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Engine.ini]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Engine.ini]
+[2021.04.10-15.18.46:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Engine.ini]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Engine.ini]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.10-15.18.46:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Engine.ini]
+[2021.04.10-15.18.46:666][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Engine.ini]
+[2021.04.10-15.18.46:695][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.10-15.18.46:695][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:695][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.10-15.18.46:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.10-15.18.46:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.10-15.18.46:697][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:697][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.10-15.18.46:697][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.10-15.18.46:697][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:697][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.10-15.18.46:697][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.10-15.18.46:697][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.10-15.18.46:697][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.10-15.18.46:697][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.10-15.18.46:698][  0]LogHAL: Display: Platform has ~ 16 GB [17011032064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.10-15.18.46:698][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.10-15.18.46:698][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.10-15.18.46:698][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.10-15.18.46:699][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.10-15.18.46:700][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.10-15.18.46:707][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.10-15.18.46:707][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.10-15.18.46:707][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.10-15.18.46:707][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/AITestProjec/AITestProject/Saved/Config/Windows/Engine.ini]
+[2021.04.10-15.18.46:708][  0]LogInit: Computer: VLADEKINTHESHEL
+[2021.04.10-15.18.46:708][  0]LogInit: User: vladekintheshell
+[2021.04.10-15.18.46:708][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.10-15.18.46:708][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.10-15.18.46:708][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.04.10-15.18.46:708][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.10-15.18.46:708][  0]LogMemory: Process Physical Memory: 136.28 MB used, 136.28 MB peak
+[2021.04.10-15.18.46:708][  0]LogMemory: Process Virtual Memory: 118.30 MB used, 118.30 MB peak
+[2021.04.10-15.18.46:708][  0]LogMemory: Physical Memory: 5043.69 MB used,  11179.30 MB free, 16222.98 MB total
+[2021.04.10-15.18.46:708][  0]LogMemory: Virtual Memory: 134202104.00 MB used,  15620.71 MB free, 134217728.00 MB total
+[2021.04.10-15.18.46:715][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.10-15.18.47:156][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.10-15.18.47:158][  0]LogInit: Using OS detected language (ru-RU).
+[2021.04.10-15.18.47:158][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.04.10-15.18.47:173][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.04.10-15.18.47:173][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.04.10-15.18.47:173][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.04.10-15.18.47:174][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.04.10-15.18.47:174][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.04.10-15.18.47:174][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.04.10-15.18.47:174][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.04.10-15.18.47:175][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.04.10-15.18.47:203][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.10-15.18.47:229][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.10-15.18.47:340][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.10-15.18.47:340][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.10-15.18.50:960][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.10-15.18.50:960][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.10-15.18.50:960][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.10-15.18.50:960][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.10-15.18.51:068][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.04.10-15.18.51:068][  0]LogD3D11RHI:       5980/0/8111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.10-15.18.51:070][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.10-15.18.51:070][  0]LogD3D11RHI:       0/0/8111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.10-15.18.51:070][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.10-15.18.51:077][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.10-15.18.51:077][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.10-15.18.51:077][  0]LogWindows: EnumDisplayDevices:
+[2021.04.10-15.18.51:077][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.04.10-15.18.51:078][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.04.10-15.18.51:078][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.10-15.18.51:078][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.10-15.18.51:078][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.10-15.18.51:078][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.04.10-15.18.51:078][  0]LogD3D11RHI:   Driver Version: 457.63 (internal:27.21.14.5763, unified:457.63)
+[2021.04.10-15.18.51:078][  0]LogD3D11RHI:      Driver Date: 12-8-2020
+[2021.04.10-15.18.51:078][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.04.10-15.18.51:151][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.10-15.18.51:152][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.10-15.18.51:152][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.10-15.18.51:154][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2021.04.10-15.18.51:217][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.04.10-15.18.51:222][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.10-15.18.52:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.10-15.18.52:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.10-15.18.52:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.10-15.18.52:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.10-15.18.52:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.10-15.18.52:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.10-15.18.52:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.10-15.18.52:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.10-15.18.52:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.10-15.18.52:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.10-15.18.52:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.10-15.18.52:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.10-15.18.52:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.10-15.18.52:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.10-15.18.52:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.10-15.18.52:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.10-15.18.52:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.10-15.18.52:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.10-15.18.52:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.10-15.18.52:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.10-15.18.52:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.10-15.18.52:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.10-15.18.52:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.10-15.18.52:861][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.10-15.18.52:947][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.10-15.18.53:454][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.10-15.18.53:455][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../AITestProjec/AITestProject/Intermediate/Shaders/WorkingDirectory/11152/).
+[2021.04.10-15.18.53:455][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vladekintheshell/AppData/Local/Temp/UnrealShaderWorkingDir/70DBFA48484B43925874CDB6B86F0EC5/'.
+[2021.04.10-15.18.53:456][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.10-15.18.53:456][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.10-15.18.56:712][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.10-15.18.56:791][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/vladekintheshell/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.10-15.18.56:791][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vladekintheshell/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.10-15.18.56:792][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../AITestProjec/AITestProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.10-15.18.56:792][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.10-15.18.56:792][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../AITestProjec/AITestProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.10-15.18.56:792][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.10-15.18.56:813][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.10-15.18.56:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.10-15.18.56:813][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.10-15.18.56:868][  0]LogDerivedDataCache: Speed tests for C:/Users/vladekintheshell/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2021.04.10-15.18.56:868][  0]LogDerivedDataCache: Display: Performance to C:/Users/vladekintheshell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.20ms. RandomReadSpeed=19.19MBs, RandomWriteSpeed=224.63MBs. Assigned SpeedClass 'Local'
+[2021.04.10-15.18.56:871][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vladekintheshell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.10-15.18.56:872][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.10-15.18.56:872][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.10-15.18.56:919][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.10-15.18.56:932][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.10-15.18.57:237][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2021.04.10-15.18.57:522][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.10-15.18.57:522][  0]LogInit: Active device profile: [0000022AA641FA00][0000022AA4D5B200 49] Windows
+[2021.04.10-15.18.57:522][  0]LogInit: Profiles: [0000022AA641FA00][0000022AA4D5B200 49] Windows, [0000022AA63F4800][0000022AA4D63380 49] WindowsNoEditor, [0000022AA641C900][0000022AA4D67500 49] WindowsServer, [0000022AA63F7400][0000022AA4D5F640 49] WindowsClient, [0000022AA641F500][0000022AA4D6B780 49] IOS, [0000022AA63F4C00][0000022AA4D6F8C0 49] iPadAir, [0000022AA641CE00][0000022AA4D73A00 49] iPadAir2, [0000022AA63B9000][0000022AA4D7FCC0 49] IPadPro, [0000022AA63B9100][0000022AA4D7BD00 49] iPadAir3, [0000022AA641F000][0000022AA4D821C0 49] iPadAir4, [0000022AA63B8E00][0000022AA4D86340 49] iPadMini2, [0000022AA641D200][0000022AA4D8A4C0 49] iPadMini3, [0000022AA63BA000][0000022AA4D8E640 49] iPadMini4, [0000022AA641EA00][0000022AA4D927C0 49] iPadMini5, [0000022AA63F7800][0000022AA4D9AA80 49] iPhone6, [0000022AA63F7700][0000022AA4D96AC0 49] iPodTouch6, [0000022AA63B8A00][0000022AA4DA2D80 49] iPhone7, [0000022AA63B9E00][0000022AA4D9EDC0 49] iPodTouch7, [0000022AA63F7200][0000022AA4DA6F40 49] iPhone5S, [0000022AA63B8400][0000022AA4DAB0C0 49] iPhone6Plus, [0000022AA63F6800][0000022AA4DAF240 49] iPhone6S, [0000022AA63BB700][0000022AA4DB33C0 49] iPhone6SPlus, [0000022AA63F7500][0000022AA4DB7540 49] iPhone7Plus, [0000022AA63B8C00][0000022AA4D77680 49] iPhoneSE, [0000022AA63F4500][0000022AA4DBB7C0 49] iPhone8, [0000022AA63BA700][0000022AA4DBF900 49] iPhone8Plus, [0000022AA63F4700][0000022AA4DC3A40 49] iPhoneX, [0000022AA63B9700][0000022AA4DCBBC0 49] iPhoneXS, [0000022AA63F6200][0000022AA4DCFD40 49] iPhoneXSMax, [0000022AA63B9A00][0000022AA4DD2200 49] iPhoneXR, [0000022AA63F6700][0000022AA4DD6380 49] iPhone11, [0000022AA63B8700][0000022AA4DDA500 49] iPhone11Pro, [0000022AA63F4900][0000022AA4DDE680 49] iPhone11ProMax, [0000022AA63B9C00][0000022AA4DE2800 49] iPhoneSE2, [0000022AA63F4F00][0000022AA4DE6980 49] iPhone12Mini, [0000022AA63B9F00][0000022AA4DEAB00 49] iPhone12, [0000022AA63F5300][0000022AA4DEEC80 49] iPhone12Pro, [0000022AA63BA600][0000022AA4DF2E00 49] iPhone12ProMax, [0000022AA63F5E00][0000022AA4DF6F80 49] iPadPro105, [0000022AA63B8500][0000022AA4DFB100 49] iPadPro129, [0000022AA63F7D00][0000022AA4DFF280 49] iPadPro97, [0000022AA63B9800][0000022AA4E03400 49] iPadPro2_129, [0000022AA63F6900][0000022AA4E07580 49] iPad5, [0000022AA63B9B00][0000022AA4E0B700 49] iPad6, [0000022AA63F4400][0000022AA4DC7840 49] iPad7, [0000022AA63BB100][0000022AA4E0F980 49] iPad8, [0000022AA63F5D00][0000022AA4E13AC0 49] iPadPro11, [0000022AA63BA800][0000022AA4E1BC40 49] iPadPro2_11, [0000022AA63F6F00][0000022AA4E1E100 49] iPadPro3_129, [0000022AA63BA900][0000022AA4E22280 49] iPadPro4_129, [0000022AA63F5700][0000022AA4E26400 49] AppleTV, [0000022AA63BA500][0000022AA4E2A580 49] AppleTV4K, [0000022AA63F6100][0000022AA5660700 49] TVOS, [0000022AA63B8600][0000022AA5664880 49] Mac, [0000022AA63F7900][0000022AA5668A00 49] MacClient, [0000022AA63BB300][0000022AA566CB80 49] MacNoEditor, [0000022AA63F7000][0000022AA5670D00 49] MacServer, [0000022AA63BBC00][0000022AA5674E80 49] Linux, [0000022AA63F7E00][0000022AA5679000 49] LinuxNoEditor, [0000022AA63B8900][0000022AA567D180 49] LinuxAArch64NoEditor, [0000022AA63F5100][0000022AA5681300 49] LinuxClient, [0000022AA63BB600][0000022AA5685480 49] LinuxAArch64Client, [0000022AA63F4E00][0000022AA5689600 49] LinuxServer, [0000022AA6481C00][0000022AA568D780 49] LinuxAArch64Server, [0000022AA641FE00][0000022AA4E178C0 49] Android, [0000022AA6481500][0000022AA5691A00 49] Android_Low, [0000022AA641D300][0000022AA5695B40 49] Android_Mid, [0000022AA6480200][0000022AA569DCC0 49] Android_High, [0000022AA641C400][0000022AA56A0180 49] Android_Default, [0000022AA6481600][0000022AA56A4300 49] Android_Adreno4xx, [0000022AA641EB00][0000022AA56A8480 49] Android_Adreno5xx_Low, [0000022AA6481F00][0000022AA56AC600 49] Android_Adreno5xx, [0000022AA641F700][0000022AA56B0780 49] Android_Adreno6xx, [0000022AA6480300][0000022AA56B4900 49] Android_Adreno6xx_Vulkan, [0000022AA641CF00][0000022AA56B8A80 49] Android_Mali_T6xx, [0000022AA6481B00][0000022AA56BCC00 49] Android_Mali_T7xx, [0000022AA641F800][0000022AA56C0D80 49] Android_Mali_T8xx, [0000022AA6481100][0000022AA56C4F00 49] Android_Mali_G71, [0000022AA641D500][0000022AA56C9080 49] Android_Mali_G72, [0000022AA6481400][0000022AA56CD200 49] Android_Mali_G72_Vulkan, [0000022AA641DB00][0000022AA56D1380 49] Android_Mali_G76, [0000022AA63F5200][0000022AA56D5500 49] Android_Mali_G76_Vulkan, [0000022AA63BBF00][0000022AA56D9680 49] Android_Mali_G77, [0000022AA63F4B00][0000022AA56DD800 49] Android_Mali_G77_Vulkan, [0000022AA63BAD00][0000022AA5699940 49] Android_Vulkan_SM5, [0000022AA63F6000][0000022AA56E1A80 49] Android_PowerVR_G6xxx, [0000022AA63BAE00][0000022AA56E5BC0 49] Android_PowerVR_GT7xxx, [0000022AA63F4600][0000022AA56E9D00 49] Android_PowerVR_GE8xxx, [0000022AA63B8100][0000022AA56F01C0 49] Android_PowerVR_GM9xxx, [0000022AA63F6600][0000022AA56F4340 49] Android_PowerVR_GM9xxx_Vulkan, [0000022AA63BAA00][0000022AA56F84C0 49] Android_TegraK1, [0000022AA63F5A00][0000022AA56FC640 49] Android_Unknown_Vulkan, [0000022AA63B9D00][0000022AA57007C0 49] Lumin, [0000022AA63F5500][0000022AA5704940 49] Lumin_Desktop, [0000022AA63BBE00][0000022AA5708AC0 49] HoloLens, 
+[2021.04.10-15.18.57:957][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.10-15.18.57:957][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.10-15.18.57:957][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.10-15.18.57:957][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.10-15.18.57:957][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.10-15.18.58:047][  0]LogNetVersion: AITestProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 812306674)
+[2021.04.10-15.19.01:928][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.10-15.19.01:977][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.047420 seconds
+[2021.04.10-15.19.01:982][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.04.10-15.19.01:982][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.04.10-15.19.01:982][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.10-15.19.03:685][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.10-15.19.03:708][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.10-15.19.04:170][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.04.10-15.19.04:567][  0]SourceControl: Source control is disabled
+[2021.04.10-15.19.04:567][  0]SourceControl: Source control is disabled
+[2021.04.10-15.19.04:591][  0]SourceControl: Source control is disabled
+[2021.04.10-15.19.04:611][  0]SourceControl: Source control is disabled
+[2021.04.10-15.19.04:663][  0]SourceControl: Source control is disabled
+[2021.04.10-15.19.04:697][  0]LogUProjectInfo: Found projects:
+[2021.04.10-15.19.05:938][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.10-15.19.06:041][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.10-15.19.06:041][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.10-15.19.06:271][  0]LogCollectionManager: Loaded 0 collections in 0.001173 seconds
+[2021.04.10-15.19.06:356][  0]LogFileCache: Scanning file cache for directory 'D:/AITestProjec/AITestProject/Saved/Collections/' took 0.00s
+[2021.04.10-15.19.06:356][  0]LogFileCache: Scanning file cache for directory 'D:/AITestProjec/AITestProject/Content/Developers/vladekintheshell/Collections/' took 0.00s
+[2021.04.10-15.19.06:356][  0]LogFileCache: Scanning file cache for directory 'D:/AITestProjec/AITestProject/Content/Collections/' took 0.00s
+[2021.04.10-15.19.06:356][  0]LogOcInput: OculusInput pre-init called
+[2021.04.10-15.19.06:398][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.10-15.19.06:398][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.10-15.19.06:558][  0]LogEngine: Initializing Engine...
+[2021.04.10-15.19.06:559][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.10-15.19.06:560][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.10-15.19.06:849][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.10-15.19.06:893][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.10-15.19.06:898][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.10-15.19.06:916][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.10-15.19.06:916][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.10-15.19.06:917][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-15.19.06:917][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-15.19.06:917][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-15.19.06:917][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-15.19.06:917][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-15.19.06:917][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-15.19.06:917][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-15.19.06:917][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-15.19.06:919][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-15.19.06:919][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-15.19.06:957][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-15.19.06:957][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-15.19.07:051][  0]LogAudioMixer: Display: Using Audio Device 27GL850 (NVIDIA High Definition Audio)
+[2021.04.10-15.19.07:054][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-15.19.07:075][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-15.19.07:075][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-15.19.07:076][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-15.19.07:077][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-15.19.07:077][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-15.19.07:077][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-15.19.07:077][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-15.19.07:077][  0]LogInit: FAudioDevice initialized.
+[2021.04.10-15.19.07:078][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.10-15.19.07:079][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.10-15.19.07:113][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/vladekintheshell/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.10-15.19.07:114][  0]LogInit: Texture streaming: Enabled
+[2021.04.10-15.19.07:172][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.04.10-15.19.07:189][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.10-15.19.07:189][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.10-15.19.07:192][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.10-15.19.07:379][  0]LogInit: Transaction tracking system initialized
+[2021.04.10-15.19.07:497][  0]BlueprintLog: New page: Editor Load
+[2021.04.10-15.19.07:901][  0]LocalizationService: Localization service is disabled
+[2021.04.10-15.19.08:048][  0]TimingProfiler: Initialize
+[2021.04.10-15.19.08:050][  0]TimingProfiler: OnSessionChanged
+[2021.04.10-15.19.08:050][  0]LoadingProfiler: Initialize
+[2021.04.10-15.19.08:051][  0]LoadingProfiler: OnSessionChanged
+[2021.04.10-15.19.08:051][  0]NetworkingProfiler: Initialize
+[2021.04.10-15.19.08:051][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.10-15.19.08:051][  0]MemoryProfiler: Initialize
+[2021.04.10-15.19.08:051][  0]MemoryProfiler: OnSessionChanged
+[2021.04.10-15.19.08:663][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.10-15.19.08:663][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.10-15.19.08:907][  0]LogFileCache: Scanning file cache for directory 'D:/AITestProjec/AITestProject/Content/' took 0.01s
+[2021.04.10-15.19.08:907][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2021.04.10-15.19.09:737][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.10-15.19.09:743][  0]SourceControl: Source control is disabled
+[2021.04.10-15.19.09:743][  0]LogUnrealEdMisc: Loading editor; pre map load, took 27.602
+[2021.04.10-15.19.09:745][  0]Cmd: MAP LOAD FILE="../../../../../AITestProjec/AITestProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.10-15.19.09:746][  0]LightingResults: New page: Lighting Build
+[2021.04.10-15.19.09:748][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.19.09:749][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.19.09:750][  0]MapCheck: New page: Map Check
+[2021.04.10-15.19.09:750][  0]LightingResults: New page: Lighting Build
+[2021.04.10-15.19.09:758][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.10-15.19.10:606][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.04.10-15.19.10:606][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.10-15.19.10:630][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.10-15.19.10:641][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.10-15.19.10:642][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.10-15.19.10:642][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,275ms to complete.
+[2021.04.10-15.19.10:642][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.898
+[2021.04.10-15.19.10:658][  0]LogUnrealEdMisc: Total Editor Startup Time, took 28.517
+[2021.04.10-15.19.10:794][  0]LogSlate: The tab "/VostokGameFramework/Blueprints/Factions/UI/WBP_RelationTree_Editor.WBP_RelationTree_Editor_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.10-15.19.10:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.19.10:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.19.10:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.19.10:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.19.10:881][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3691 classes and 869 folders.
+[2021.04.10-15.19.10:889][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.10-15.19.10:910][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.10-15.19.10:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.10-15.19.10:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.04.10-15.19.10:918][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.10-15.19.10:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.10-15.19.10:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.04.10-15.19.10:923][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.10-15.19.10:923][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:923][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.10-15.19.10:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.10-15.19.10:929][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-15.19.10:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.10-15.19.10:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.04.10-15.19.10:936][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.10-15.19.10:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.10-15.19.10:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.10-15.19.10:940][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.10-15.19.10:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.10-15.19.10:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.04.10-15.19.10:946][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.10-15.19.10:946][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:946][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.10-15.19.10:946][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.04.10-15.19.10:952][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.10-15.19.10:953][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:953][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.10-15.19.10:953][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.10-15.19.10:959][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.10-15.19.10:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.10-15.19.10:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.04.10-15.19.10:966][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.10-15.19.10:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.10-15.19.10:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.04.10-15.19.10:971][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.10-15.19.10:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.10-15.19.10:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.04.10-15.19.10:977][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.10-15.19.10:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.10-15.19.10:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.04.10-15.19.10:983][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-15.19.10:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.10-15.19.10:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.04.10-15.19.10:988][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.10-15.19.10:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.10-15.19.10:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.04.10-15.19.10:994][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.10-15.19.10:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.10:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.10-15.19.10:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.04.10-15.19.11:000][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.10-15.19.11:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.10-15.19.11:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.04.10-15.19.11:006][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.10-15.19.11:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.10-15.19.11:006][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.04.10-15.19.11:012][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.10-15.19.11:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.10-15.19.11:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.04.10-15.19.11:018][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-15.19.11:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.10-15.19.11:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.04.10-15.19.11:026][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-15.19.11:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.10-15.19.11:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.04.10-15.19.11:031][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.10-15.19.11:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.10-15.19.11:032][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.04.10-15.19.11:037][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.10-15.19.11:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.10-15.19.11:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.04.10-15.19.11:043][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.10-15.19.11:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.10-15.19.11:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.04.10-15.19.11:049][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.10-15.19.11:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:049][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.10-15.19.11:049][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.04.10-15.19.11:054][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-15.19.11:054][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:054][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.10-15.19.11:054][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.04.10-15.19.11:060][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.10-15.19.11:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-15.19.11:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.10-15.19.11:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.04.10-15.19.11:344][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.10-15.19.11:357][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.10-15.19.11:395][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.04.10-15.19.11:569][  0]LogSlate: Took 0.005126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.10-15.19.11:576][  0]LogSlate: Took 0.005260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.10-15.19.11:586][  0]LogSlate: Took 0.005585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.10-15.19.11:776][  0]LogRenderer: Reallocating scene render targets to support 1748x884 Format 10 NumSamples 1 (Frame:1).
+[2021.04.10-15.19.12:368][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.10-15.19.12:368][  0]LogLoad: (Engine Initialization) Total time: 30.23 seconds
+[2021.04.10-15.19.12:368][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.10-15.19.12:368][  0]LogInit: First time updating LLM stats...
+[2021.04.10-15.19.12:420][  0]LogAssetRegistry: Asset discovery search completed in 15.1841 seconds
+[2021.04.10-15.19.12:422][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.04.10-15.19.12:455][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.10-15.19.13:735][  4]LogSlate: Took 0.007125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.10-15.19.28:131][ 47]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.10-15.19.28:132][ 47]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.10-15.19.31:659][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.10-15.19.31:878][141]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TestMaps/ToxicCrocodileMap.ToxicCrocodileMap
+[2021.04.10-15.19.31:879][141]Cmd: MAP LOAD FILE="../../../../../AITestProjec/AITestProject/Content/TestMaps/ToxicCrocodileMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.10-15.19.31:879][141]LightingResults: New page: Lighting Build
+[2021.04.10-15.19.31:879][141]LoadErrors: New page: Loading map: ToxicCrocodileMap.umap
+[2021.04.10-15.19.31:880][141]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.19.31:880][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.19.31:881][141]MapCheck: New page: Map Check
+[2021.04.10-15.19.31:881][141]LightingResults: New page: Lighting Build
+[2021.04.10-15.19.31:885][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.10-15.19.31:888][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.10-15.19.31:889][141]LogAudio: Display: Audio Device (ID: 1) registered with world 'ToxicCrocodileMap'.
+[2021.04.10-15.19.31:953][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.10-15.19.31:953][141]LogAIModule: Creating AISystem for world ToxicCrocodileMap
+[2021.04.10-15.19.31:960][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.04.10-15.19.31:968][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.10-15.19.31:968][141]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2021.04.10-15.19.31:968][141]LogFileHelpers: Loading map 'ToxicCrocodileMap' took 0.089
+[2021.04.10-15.19.53:046][710]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/Mutants/Crocodile/AI/Behaviors/BT_CrocodileCombatBehavior.BT_CrocodileCombatBehavior
+[2021.04.10-15.19.53:222][710]LogSlate: Took 0.005268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.10-15.19.58:634][960]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-15.19.58:643][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-15.19.58:644][960]PIE: New page: PIE session: ToxicCrocodileMap (10 апр. 2021 г., 21:19:58)
+[2021.04.10-15.19.58:645][960]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.10-15.19.58:647][960]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.10-15.19.58:647][960]LogPlayLevel: Creating play world package: /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.19.58:720][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073359s)
+[2021.04.10-15.19.58:722][960]LogAIModule: Creating AISystem for world ToxicCrocodileMap
+[2021.04.10-15.19.58:723][960]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2021.04.10-15.19.58:723][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMaps/ToxicCrocodileMap.ToxicCrocodileMap to /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap (0.075784s)
+[2021.04.10-15.19.58:727][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.10-15.19.58:728][960]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.10-15.19.58:728][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-15.19.58:728][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-15.19.58:728][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-15.19.58:728][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-15.19.58:728][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-15.19.58:728][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-15.19.58:728][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-15.19.58:728][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-15.19.58:728][960]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-15.19.58:728][960]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-15.19.58:731][960]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-15.19.58:731][960]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-15.19.58:739][960]LogAudioMixer: Display: Using Audio Device 27GL850 (NVIDIA High Definition Audio)
+[2021.04.10-15.19.58:739][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-15.19.58:739][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-15.19.58:739][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-15.19.58:740][960]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-15.19.58:740][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-15.19.58:740][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-15.19.58:751][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-15.19.58:751][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-15.19.58:751][960]LogInit: FAudioDevice initialized.
+[2021.04.10-15.19.58:751][960]LogAudio: Display: Audio Device (ID: 2) registered with world 'ToxicCrocodileMap'.
+[2021.04.10-15.19.58:760][960]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.10-15.19.58:762][960]LogWorld: Bringing World /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap up for play (max tick rate 60) at 2021.04.10-18.19.58
+[2021.04.10-15.19.58:766][960]LogWorld: Bringing up level for play took: 0.004598
+[2021.04.10-15.19.58:766][960]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.04.10-15.19.58:770][960]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.10-15.19.58:775][960]PIE: Server logged in
+[2021.04.10-15.19.58:776][960]PIE: Play in editor total start time 0,136 seconds.
+[2021.04.10-15.20.01:893][ 23]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.01:893][ 23]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.03:000][ 45]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.03:000][ 45]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.03:403][ 53]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player dead
+[2021.04.10-15.20.04:107][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.04:107][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.04:510][ 75]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player dead
+[2021.04.10-15.20.05:214][ 89]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.05:215][ 89]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.06:321][111]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.06:321][111]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.07:429][133]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.07:429][133]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.08:537][155]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.08:538][155]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.09:642][177]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.09:642][177]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.10:396][192]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player dead
+[2021.04.10-15.20.10:749][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.10:749][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.11:856][221]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.11:856][221]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.12:963][243]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.12:964][243]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.14:070][265]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.14:070][265]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.15:177][287]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.15:177][287]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:AbilityStart
+	Function /Game/AI/Abilities/BP_MyAbilitySystem.BP_MyAbilitySystem_C:ExecuteUbergraph_BP_MyAbilitySystem
+	Function /Game/AI/Abilities/BP_MyRangeAttackAbility.BP_MyRangeAttackAbility_C:ActivateAvility
+
+[2021.04.10-15.20.15:678][297]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player dead
+[2021.04.10-15.20.16:282][309]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_ToxicCrocodile_C /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap:PersistentLevel.BP_ToxicCrocodile_2
+	Function /Game/Characters/Mutants/Crocodile/BP_ToxicCrocodile.BP_ToxicCrocodile_C:ExecuteUbergraph_BP_ToxicCrocodile:004E
+[2021.04.10-15.20.16:282][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  BP_ToxicCrocodile Function:  Execute Ubergraph BP Toxic Crocodile Graph:  EventGraph Node:  Un Possess
+[2021.04.10-15.20.16:432][312]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_ToxicCrocodile_C /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap:PersistentLevel.BP_ToxicCrocodile_2
+	Function /Game/Characters/Mutants/Crocodile/BP_ToxicCrocodile.BP_ToxicCrocodile_C:ExecuteUbergraph_BP_ToxicCrocodile:004E
+[2021.04.10-15.20.16:432][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  BP_ToxicCrocodile Function:  Execute Ubergraph BP Toxic Crocodile Graph:  EventGraph Node:  Un Possess
+[2021.04.10-15.20.16:633][316]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_ToxicCrocodile_C /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap:PersistentLevel.BP_ToxicCrocodile_2
+	Function /Game/Characters/Mutants/Crocodile/BP_ToxicCrocodile.BP_ToxicCrocodile_C:ExecuteUbergraph_BP_ToxicCrocodile:004E
+[2021.04.10-15.20.16:633][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  BP_ToxicCrocodile Function:  Execute Ubergraph BP Toxic Crocodile Graph:  EventGraph Node:  Un Possess
+[2021.04.10-15.20.16:784][319]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_ToxicCrocodile_C /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap:PersistentLevel.BP_ToxicCrocodile_2
+	Function /Game/Characters/Mutants/Crocodile/BP_ToxicCrocodile.BP_ToxicCrocodile_C:ExecuteUbergraph_BP_ToxicCrocodile:004E
+[2021.04.10-15.20.16:784][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  BP_ToxicCrocodile Function:  Execute Ubergraph BP Toxic Crocodile Graph:  EventGraph Node:  Un Possess
+[2021.04.10-15.20.16:935][322]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_ToxicCrocodile_C /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap:PersistentLevel.BP_ToxicCrocodile_2
+	Function /Game/Characters/Mutants/Crocodile/BP_ToxicCrocodile.BP_ToxicCrocodile_C:ExecuteUbergraph_BP_ToxicCrocodile:004E
+[2021.04.10-15.20.16:935][322]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  BP_ToxicCrocodile Function:  Execute Ubergraph BP Toxic Crocodile Graph:  EventGraph Node:  Un Possess
+[2021.04.10-15.20.18:594][355]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_ToxicCrocodile_C /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap:PersistentLevel.BP_ToxicCrocodile_2
+	Function /Game/Characters/Mutants/Crocodile/BP_ToxicCrocodile.BP_ToxicCrocodile_C:ExecuteUbergraph_BP_ToxicCrocodile:004E
+[2021.04.10-15.20.18:594][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  BP_ToxicCrocodile Function:  Execute Ubergraph BP Toxic Crocodile Graph:  EventGraph Node:  Un Possess
+[2021.04.10-15.20.19:372][368]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.04.10-15.20.19:903][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.20.19:903][378]LogWorld: BeginTearingDown for /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.20.19:903][378]LogWorld: UWorld::CleanupWorld for ToxicCrocodileMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.20.19:904][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.20.19:932][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-15.20.19:933][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.20.19:938][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.10-15.20.19:940][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.20.19:940][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.20.19:955][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.20.19:956][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.10-15.20.20:060][378]LogSlate: Took 0.007646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.10-15.20.20:067][379]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.04.10-15.20.22:612][410]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-15.20.22:716][410]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-15.22.38:705][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Abilities/BP_BIteAbility.BP_BIteAbility
+[2021.04.10-15.22.39:109][545]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.04.10-15.22.41:151][620]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.22.41:151][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.22.41:188][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Abilities/BP_BIteAbility.BP_BIteAbility
+[2021.04.10-15.22.42:895][698]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.22.42:895][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.22.49:402][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.10-15.22.51:911][923]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.10-15.22.52:079][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.04.10-15.22.52:112][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.10-15.22.52:125][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.10-15.22.59:726][119]LogMetaData: Removing '/Game/AI/Abilities/BP_MyAbilityBite.BP_MyAbilityBite_C' ref from Metadata '/Game/AI/BP_MyAbilityBite.PackageMetaData'
+[2021.04.10-15.22.59:726][119]LogMetaData: Removing '/Game/AI/Abilities/BP_MyAbilityBite.BP_MyAbilityBite:ActivateAvility.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/BP_MyAbilityBite.PackageMetaData'
+[2021.04.10-15.22.59:726][119]LogMetaData: Removing '/Game/AI/Abilities/BP_MyAbilityBite.BP_MyAbilityBite:OnEndAbility.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/BP_MyAbilityBite.PackageMetaData'
+[2021.04.10-15.22.59:726][119]LogMetaData: Removing '/Game/AI/Abilities/BP_MyAbilityBite.SKEL_BP_MyAbilityBite_C' ref from Metadata '/Game/AI/BP_MyAbilityBite.PackageMetaData'
+[2021.04.10-15.22.59:790][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Abilities/BP_MyAbilityBite" FILE="../../../../../AITestProjec/AITestProject/Content/AI/Abilities/BP_MyAbilityBite.uasset" SILENT=true
+[2021.04.10-15.22.59:795][119]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/BP_MyAbilityBiteD1AA1D644DFADFF0EB1C0496244586F3.tmp' to '../../../../../AITestProjec/AITestProject/Content/AI/Abilities/BP_MyAbilityBite.uasset'
+[2021.04.10-15.22.59:923][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.04.10-15.22.59:941][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.04.10-15.22.59:955][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.10-15.23.00:019][119]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/BP_ToxicCrocodileA212072A43AB01441EF7BFAA95708788.tmp' to '../../../../../AITestProjec/AITestProject/Content/Characters/Mutants/Crocodile/BP_ToxicCrocodile.uasset'
+[2021.04.10-15.23.00:077][119]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Abilities/BP_MyAbilityBite.
+[2021.04.10-15.23.00:081][119]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.10-15.23.00:081][119]LogContentValidation: Display: Validating Blueprint /Game/Characters/Mutants/Crocodile/BP_ToxicCrocodile.BP_ToxicCrocodile
+[2021.04.10-15.23.00:081][119]LogContentValidation: Display: Validating Blueprint /Game/AI/Abilities/BP_MyAbilityBite.BP_MyAbilityBite
+[2021.04.10-15.23.09:921][386]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Abilities/BP_MyAbilityBite.BP_MyAbilityBite
+[2021.04.10-15.23.10:218][387]LogSlate: Took 0.004768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.10-15.25.26:508][730]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_BiteForward.ANIM_Crocodile_BiteForward
+[2021.04.10-15.25.26:561][730]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.04.10-15.25.26:768][730]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.25.26:774][730]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.04.10-15.25.30:348][882]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_Bite.ANIM_Crocodile_Bite
+[2021.04.10-15.25.30:415][882]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.25.30:415][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.25.36:746][248]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_BiteForward.ANIM_Crocodile_BiteForward
+[2021.04.10-15.25.36:810][248]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.25.36:810][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.25.42:729][592]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_BiteForward_RM.ANIM_Crocodile_BiteForward_RM
+[2021.04.10-15.25.42:809][592]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.25.42:809][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.25.46:942][828]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_BiteHigh.ANIM_Crocodile_BiteHigh
+[2021.04.10-15.25.47:015][828]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.25.47:015][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.25.51:489][ 61]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_BiteHigh_RM.ANIM_Crocodile_BiteHigh_RM
+[2021.04.10-15.25.51:612][ 61]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.25.51:612][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.25.58:997][459]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_GetHit.ANIM_Crocodile_GetHit
+[2021.04.10-15.25.59:068][459]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.25.59:068][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.26.05:247][815]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_Idle.ANIM_Crocodile_Idle
+[2021.04.10-15.26.05:310][815]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.26.05:310][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.26.06:810][893]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_IdleRest1.ANIM_Crocodile_IdleRest1
+[2021.04.10-15.26.06:881][893]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.26.06:881][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.26.08:699][991]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_IdleRest2.ANIM_Crocodile_IdleRest2
+[2021.04.10-15.26.08:770][991]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.26.08:770][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.26.10:706][ 96]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_IdleRest3.ANIM_Crocodile_IdleRest3
+[2021.04.10-15.26.10:776][ 96]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.26.10:777][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.26.21:092][700]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_Bite.ANIM_Crocodile_Bite
+[2021.04.10-15.26.21:156][700]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.26.21:156][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.26.22:893][792]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mutants/Crocodile/Animations/ANIM_Crocodile_BiteForward.ANIM_Crocodile_BiteForward
+[2021.04.10-15.26.22:952][792]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.26.22:952][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.27.06:924][848]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/Characters/Mutants/Crocodile/AI/EQS/EQS_CrocodileAttackPosition.EQS_CrocodileAttackPosition
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:931][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.27.06:940][848]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AI/EQSContext_Enemy.EQSContext_Enemy_C
+[2021.04.10-15.29.17:521][196]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.17:521][196]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:603][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:603][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:603][262]LogUObjectHash: Warning: Ambiguous path search, could be EnvironmentQueryGraphNode_Test /Game/TestMaps/ToxicCrocodileMap.ToxicCrocodileMap:AISystem_0.EnvQueryManager_0.EQS_CrocodileAttackPosition_AllMatching.EnvironmentQueryGraph_0.EnvironmentQueryGraphNode_Test_10 or EnvironmentQueryGraphNode_Test /Game/Characters/Mutants/Crocodile/AI/EQS/EQS_CrocodileAttackPosition.EQS_CrocodileAttackPosition:EnvironmentQueryGraph_0.EnvironmentQueryGraphNode_Test_10
+[2021.04.10-15.29.25:603][262]LogProperty: Warning: ObjectProperty /Script/AIModule.EnvQueryOption:Tests.Tests: unresolved reference to 'EnvQueryTest_Overlap'"EnvironmentQueryGraphNode_Test_10.EnvQueryTest_Overlap_0"''
+[2021.04.10-15.29.25:604][262]LogProperty: Warning: ObjectProperty /Script/AIModule.EnvQueryOption:Tests.Tests: unresolved reference to 'EnvQueryTest_Trace'"EnvironmentQueryGraphNode_Test_11.EnvQueryTest_Trace_0"''
+[2021.04.10-15.29.25:604][262]LogProperty: Warning: ObjectProperty /Script/AIModule.EnvQueryOption:Tests.Tests: unresolved reference to 'EnvQueryTest_PathfindingBatch'"EnvironmentQueryGraphNode_Test_12.EnvQueryTest_PathfindingBatch_0"''
+[2021.04.10-15.29.25:604][262]LogProperty: Warning: ObjectProperty /Script/AIModule.EnvQueryOption:Tests.Tests: unresolved reference to 'EnvQueryTest_Distance'"EnvironmentQueryGraphNode_Test_13.EnvQueryTest_Distance_0"''
+[2021.04.10-15.29.25:604][262]LogProperty: Warning: ObjectProperty /Script/AIModule.EnvQueryOption:Tests.Tests: unresolved reference to 'EnvQueryTest_Dot'"EnvironmentQueryGraphNode_Test_14.EnvQueryTest_Dot_0"''
+[2021.04.10-15.29.25:604][262]LogProperty: Warning: ClassProperty /Script/AIModule.EnvQueryGenerator_OnCircle:CircleCenter: unresolved reference to 'Class'"/Script/VostokGameFramework.EnvQueryContext_YoungestStimulusLocation"''
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:604][262]LogProperty: Warning: ClassProperty /Script/AIModule.EnvQueryTest_Trace:Context: unresolved reference to 'Class'"/Script/VostokGameFramework.EnvQueryContext_TargetActor"''
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:604][262]LogProperty: Warning: ClassProperty /Script/AIModule.EnvQueryTest_Pathfinding:Context: unresolved reference to 'Class'"/Script/VostokGameFramework.EnvQueryContext_TargetActor"''
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:604][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:605][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:605][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:605][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:605][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:605][262]LogProperty: Warning: ClassProperty /Script/AIModule.EnvDirection:LineTo: unresolved reference to 'Class'"/Script/VostokGameFramework.EnvQueryContext_YoungestStimulusLocation"')'
+[2021.04.10-15.29.25:605][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:605][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.29.25:608][262]LogEQS: Warning: Query [EQS_CrocodileAttackPosition] doesn't have any valid options!
+[2021.04.10-15.29.25:608][262]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.30.29:415][952]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/EQS_CrocodileAttackPositionE8F1EA3749FA6EFEDE85E0A04D980D30.tmp' to '../../../../../AITestProjec/AITestProject/Content/Characters/Mutants/Crocodile/AI/EQS/EQS_CrocodileAttackPosition.uasset'
+[2021.04.10-15.30.29:432][952]AssetCheck: New page: Asset Save: EQS_CrocodileAttackPosition
+[2021.04.10-15.30.29:432][952]LogContentValidation: Display: Validating EnvQuery /Game/Characters/Mutants/Crocodile/AI/EQS/EQS_CrocodileAttackPosition.EQS_CrocodileAttackPosition
+[2021.04.10-15.30.47:335][992]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-15.30.47:342][992]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.10-15.30.47:344][992]LogPlayLevel: [PlayLevel] Compiling BP_ToxicCrocodile before play...
+[2021.04.10-15.30.47:368][992]LogPlayLevel: [PlayLevel] Compiling BP_MyAbilityBite before play...
+[2021.04.10-15.30.47:442][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.04.10-15.30.47:443][992]LogPlayLevel: PlayLevel: Blueprint regeneration took 101 ms (2 blueprints)
+[2021.04.10-15.30.47:443][992]PIE: New page: PIE session: ToxicCrocodileMap (10 апр. 2021 г., 21:30:47)
+[2021.04.10-15.30.47:445][992]LogPlayLevel: Creating play world package: /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.30.47:448][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003245s)
+[2021.04.10-15.30.47:449][992]LogAIModule: Creating AISystem for world ToxicCrocodileMap
+[2021.04.10-15.30.47:449][992]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2021.04.10-15.30.47:449][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMaps/ToxicCrocodileMap.ToxicCrocodileMap to /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap (0.004311s)
+[2021.04.10-15.30.47:475][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.04.10-15.30.47:475][992]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.10-15.30.47:475][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-15.30.47:475][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-15.30.47:475][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-15.30.47:475][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-15.30.47:475][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-15.30.47:475][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-15.30.47:475][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-15.30.47:475][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-15.30.47:476][992]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-15.30.47:476][992]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-15.30.47:479][992]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-15.30.47:479][992]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-15.30.47:487][992]LogAudioMixer: Display: Using Audio Device 27GL850 (NVIDIA High Definition Audio)
+[2021.04.10-15.30.47:487][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-15.30.47:487][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-15.30.47:487][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-15.30.47:487][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-15.30.47:487][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-15.30.47:487][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-15.30.47:499][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-15.30.47:499][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-15.30.47:499][992]LogInit: FAudioDevice initialized.
+[2021.04.10-15.30.47:499][992]LogAudio: Display: Audio Device (ID: 3) registered with world 'ToxicCrocodileMap'.
+[2021.04.10-15.30.47:509][992]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.10-15.30.47:510][992]LogWorld: Bringing World /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap up for play (max tick rate 60) at 2021.04.10-18.30.47
+[2021.04.10-15.30.47:510][992]LogWorld: Bringing up level for play took: 0.001395
+[2021.04.10-15.30.47:511][992]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.04.10-15.30.47:514][992]PIE: Server logged in
+[2021.04.10-15.30.47:514][992]PIE: Play in editor total start time 0,175 seconds.
+[2021.04.10-15.30.53:558][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.30.53:558][173]LogWorld: BeginTearingDown for /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.30.53:558][173]LogWorld: UWorld::CleanupWorld for ToxicCrocodileMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.30.53:559][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.30.53:582][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-15.30.53:586][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.30.53:606][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.10-15.30.53:606][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.30.53:607][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.30.53:618][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.30.53:621][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.04.10-15.30.53:644][174]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.04.10-15.31.04:593][738]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.10-15.31.12:675][219]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/BT_CrocodileCombatBehavior28BCB2F44E97534BFB6262BBBD69BA3E.tmp' to '../../../../../AITestProjec/AITestProject/Content/Characters/Mutants/Crocodile/AI/Behaviors/BT_CrocodileCombatBehavior.uasset'
+[2021.04.10-15.31.12:677][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_KnowledgeBase" FILE="../../../../../AITestProjec/AITestProject/Content/AI/BB_KnowledgeBase.uasset" SILENT=true
+[2021.04.10-15.31.12:678][219]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/BB_KnowledgeBase0A914BD14F35636F2E15FEBD3C6FAA31.tmp' to '../../../../../AITestProjec/AITestProject/Content/AI/BB_KnowledgeBase.uasset'
+[2021.04.10-15.31.12:691][219]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.10-15.31.12:691][219]LogContentValidation: Display: Validating BlackboardData /Game/AI/BB_KnowledgeBase.BB_KnowledgeBase
+[2021.04.10-15.31.12:691][219]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Mutants/Crocodile/AI/Behaviors/BT_CrocodileCombatBehavior.BT_CrocodileCombatBehavior
+[2021.04.10-15.31.18:302][533]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.18:303][533]LogEditorTransaction: Undo Rename Blackboard Entry
+[2021.04.10-15.31.18:366][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.18:985][559]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.18:985][559]LogEditorTransaction: Undo Add Blackboard Entry
+[2021.04.10-15.31.19:043][559]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.19:356][577]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.19:356][577]LogEditorTransaction: Undo Create Pin Link
+[2021.04.10-15.31.19:414][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.19:690][593]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.19:690][593]LogEditorTransaction: Undo Move Node
+[2021.04.10-15.31.19:750][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.19:955][604]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.19:955][604]LogEditorTransaction: Undo Create Pin Link
+[2021.04.10-15.31.20:014][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.20:122][610]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.20:122][610]LogEditorTransaction: Undo Move Node
+[2021.04.10-15.31.20:180][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.20:306][617]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.20:306][617]LogEditorTransaction: Undo Move Node
+[2021.04.10-15.31.20:365][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.20:478][623]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.20:479][623]LogEditorTransaction: Undo Break Pin Links
+[2021.04.10-15.31.20:540][623]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.20:640][628]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.20:640][628]LogEditorTransaction: Undo Edit Line To
+[2021.04.10-15.31.20:698][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.20:824][634]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.20:824][634]LogEditorTransaction: Undo Delete current selection
+[2021.04.10-15.31.20:881][634]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.20:990][639]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.20:990][639]LogEditorTransaction: Undo Edit Context
+[2021.04.10-15.31.21:050][639]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.21:174][645]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.21:174][645]LogEditorTransaction: Undo Create Pin Link
+[2021.04.10-15.31.21:232][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.21:524][661]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.21:524][661]LogEditorTransaction: Undo Move Node
+[2021.04.10-15.31.21:583][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.21:958][682]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.21:958][682]LogEditorTransaction: Undo Paste clipboard contents
+[2021.04.10-15.31.22:017][682]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.22:405][704]Cmd: TRANSACTION UNDO
+[2021.04.10-15.31.22:405][704]LogEditorTransaction: Undo Delete current selection
+[2021.04.10-15.31.22:463][704]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-15.31.35:514][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_KnowledgeBase" FILE="../../../../../AITestProjec/AITestProject/Content/AI/BB_KnowledgeBase.uasset" SILENT=true
+[2021.04.10-15.31.35:516][482]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/BB_KnowledgeBase46C0BC554AC4B0F58A5DC8839647C56E.tmp' to '../../../../../AITestProjec/AITestProject/Content/AI/BB_KnowledgeBase.uasset'
+[2021.04.10-15.31.35:526][482]AssetCheck: New page: Asset Save: BB_KnowledgeBase
+[2021.04.10-15.31.35:526][482]LogContentValidation: Display: Validating BlackboardData /Game/AI/BB_KnowledgeBase.BB_KnowledgeBase
+[2021.04.10-15.31.55:653][644]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-15.31.55:660][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-15.31.55:660][644]PIE: New page: PIE session: ToxicCrocodileMap (10 апр. 2021 г., 21:31:55)
+[2021.04.10-15.31.55:660][644]LogPlayLevel: Creating play world package: /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.31.55:706][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046389s)
+[2021.04.10-15.31.55:707][644]LogAIModule: Creating AISystem for world ToxicCrocodileMap
+[2021.04.10-15.31.55:707][644]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2021.04.10-15.31.55:707][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMaps/ToxicCrocodileMap.ToxicCrocodileMap to /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap (0.047426s)
+[2021.04.10-15.31.55:730][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.04.10-15.31.55:734][644]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.10-15.31.55:734][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-15.31.55:734][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-15.31.55:734][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-15.31.55:734][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-15.31.55:734][644]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-15.31.55:734][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-15.31.55:734][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-15.31.55:734][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-15.31.55:735][644]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-15.31.55:735][644]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-15.31.55:738][644]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-15.31.55:738][644]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-15.31.55:744][644]LogAudioMixer: Display: Using Audio Device 27GL850 (NVIDIA High Definition Audio)
+[2021.04.10-15.31.55:745][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-15.31.55:745][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-15.31.55:745][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-15.31.55:745][644]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-15.31.55:745][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-15.31.55:745][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-15.31.55:757][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-15.31.55:757][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-15.31.55:757][644]LogInit: FAudioDevice initialized.
+[2021.04.10-15.31.55:757][644]LogAudio: Display: Audio Device (ID: 4) registered with world 'ToxicCrocodileMap'.
+[2021.04.10-15.31.55:761][644]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.10-15.31.55:762][644]LogWorld: Bringing World /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap up for play (max tick rate 60) at 2021.04.10-18.31.55
+[2021.04.10-15.31.55:762][644]LogWorld: Bringing up level for play took: 0.001251
+[2021.04.10-15.31.55:763][644]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.04.10-15.31.55:766][644]PIE: Server logged in
+[2021.04.10-15.31.55:767][644]PIE: Play in editor total start time 0,109 seconds.
+[2021.04.10-15.31.57:423][692]LogEQS: Error: Trying to spawn a query with broken Template (generator:N/A itemType:N/A): EQS_CrocodileAttackPosition_SingleResult, option 0
+[2021.04.10-15.31.57:423][692]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.31.58:495][724]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.31.59:569][756]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.00:641][788]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.01:715][820]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.02:458][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.32.02:458][841]LogWorld: BeginTearingDown for /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.32.02:458][841]LogWorld: UWorld::CleanupWorld for ToxicCrocodileMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.32.02:459][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.32.02:476][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-15.32.02:480][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.32.02:500][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.10-15.32.02:500][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.32.02:501][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.32.02:514][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.32.02:517][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.10-15.32.02:539][842]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.04.10-15.32.33:080][260]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-15.32.33:087][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-15.32.33:087][260]PIE: New page: PIE session: ToxicCrocodileMap (10 апр. 2021 г., 21:32:33)
+[2021.04.10-15.32.33:087][260]LogPlayLevel: Creating play world package: /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.32.33:133][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045947s)
+[2021.04.10-15.32.33:134][260]LogAIModule: Creating AISystem for world ToxicCrocodileMap
+[2021.04.10-15.32.33:134][260]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2021.04.10-15.32.33:134][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMaps/ToxicCrocodileMap.ToxicCrocodileMap to /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap (0.047024s)
+[2021.04.10-15.32.33:157][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.04.10-15.32.33:159][260]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.10-15.32.33:159][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-15.32.33:159][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-15.32.33:159][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-15.32.33:159][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-15.32.33:159][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-15.32.33:159][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-15.32.33:159][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-15.32.33:159][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-15.32.33:160][260]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-15.32.33:160][260]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-15.32.33:162][260]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-15.32.33:162][260]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-15.32.33:170][260]LogAudioMixer: Display: Using Audio Device 27GL850 (NVIDIA High Definition Audio)
+[2021.04.10-15.32.33:170][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-15.32.33:170][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-15.32.33:170][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-15.32.33:170][260]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-15.32.33:170][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-15.32.33:170][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-15.32.33:182][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-15.32.33:182][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-15.32.33:182][260]LogInit: FAudioDevice initialized.
+[2021.04.10-15.32.33:182][260]LogAudio: Display: Audio Device (ID: 5) registered with world 'ToxicCrocodileMap'.
+[2021.04.10-15.32.33:189][260]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.10-15.32.33:190][260]LogWorld: Bringing World /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap up for play (max tick rate 60) at 2021.04.10-18.32.33
+[2021.04.10-15.32.33:191][260]LogWorld: Bringing up level for play took: 0.001306
+[2021.04.10-15.32.33:191][260]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.10-15.32.33:194][260]PIE: Server logged in
+[2021.04.10-15.32.33:195][260]PIE: Play in editor total start time 0,11 seconds.
+[2021.04.10-15.32.35:186][321]LogEQS: Error: Trying to spawn a query with broken Template (generator:N/A itemType:N/A): EQS_CrocodileAttackPosition_SingleResult, option 0
+[2021.04.10-15.32.35:186][321]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.36:260][353]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.37:333][385]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.38:408][417]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.39:528][462]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.41:228][564]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.42:665][650]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.43:714][713]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.44:765][776]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.45:815][839]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.49:032][ 32]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.50:068][ 94]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.32.50:228][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.32.50:228][102]LogWorld: BeginTearingDown for /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.32.50:228][102]LogWorld: UWorld::CleanupWorld for ToxicCrocodileMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.32.50:229][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.32.50:234][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-15.32.50:238][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.32.50:258][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.32.50:259][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.32.50:259][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.32.50:275][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.04.10-15.32.50:306][103]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.10-15.32.58:389][578]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-15.32.58:396][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-15.32.58:396][578]PIE: New page: PIE session: ToxicCrocodileMap (10 апр. 2021 г., 21:32:58)
+[2021.04.10-15.32.58:396][578]LogPlayLevel: Creating play world package: /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.32.58:458][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062992s)
+[2021.04.10-15.32.58:459][578]LogAIModule: Creating AISystem for world ToxicCrocodileMap
+[2021.04.10-15.32.58:459][578]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2021.04.10-15.32.58:459][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMaps/ToxicCrocodileMap.ToxicCrocodileMap to /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap (0.063949s)
+[2021.04.10-15.32.58:481][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.04.10-15.32.58:482][578]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.10-15.32.58:482][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-15.32.58:482][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-15.32.58:482][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-15.32.58:482][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-15.32.58:482][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-15.32.58:482][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-15.32.58:482][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-15.32.58:482][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-15.32.58:482][578]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-15.32.58:482][578]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-15.32.58:485][578]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-15.32.58:485][578]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-15.32.58:492][578]LogAudioMixer: Display: Using Audio Device 27GL850 (NVIDIA High Definition Audio)
+[2021.04.10-15.32.58:493][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-15.32.58:493][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-15.32.58:493][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-15.32.58:493][578]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-15.32.58:493][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-15.32.58:493][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-15.32.58:506][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-15.32.58:506][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-15.32.58:506][578]LogInit: FAudioDevice initialized.
+[2021.04.10-15.32.58:506][578]LogAudio: Display: Audio Device (ID: 6) registered with world 'ToxicCrocodileMap'.
+[2021.04.10-15.32.58:516][578]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.10-15.32.58:517][578]LogWorld: Bringing World /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap up for play (max tick rate 60) at 2021.04.10-18.32.58
+[2021.04.10-15.32.58:518][578]LogWorld: Bringing up level for play took: 0.001317
+[2021.04.10-15.32.58:518][578]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.04.10-15.32.58:521][578]PIE: Server logged in
+[2021.04.10-15.32.58:522][578]PIE: Play in editor total start time 0,129 seconds.
+[2021.04.10-15.32.59:848][619]LogEQS: Error: Trying to spawn a query with broken Template (generator:N/A itemType:N/A): EQS_CrocodileAttackPosition_SingleResult, option 0
+[2021.04.10-15.32.59:848][619]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.00:920][651]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.01:993][683]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.03:067][715]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.03:099][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.33.03:099][715]LogWorld: BeginTearingDown for /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.33.03:099][715]LogWorld: UWorld::CleanupWorld for ToxicCrocodileMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.33.03:099][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.33.03:124][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-15.33.03:128][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.33.03:148][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.33.03:148][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.33.03:149][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.33.03:165][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.04.10-15.33.03:188][716]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.04.10-15.33.04:384][751]LogEditorViewport: Clicking on Actor (LMB): BP_ToxicCrocodile_C (BP_ToxicCrocodile)
+[2021.04.10-15.33.29:339][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.04.10-15.33.29:353][401]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/ToxicCrocodileMap_Auto16A47327D46DC1E5B5F0BD6A7F5177BC9.tmp' to '../../../../../AITestProjec/AITestProject/Saved/Autosaves/Game/TestMaps/ToxicCrocodileMap_Auto1.umap'
+[2021.04.10-15.33.29:354][401]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestMaps/ToxicCrocodileMap' took 0.037
+[2021.04.10-15.33.29:354][401]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.04.10-15.33.29:355][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mutants/Crocodile/AI/Behaviors/BT_CrocodileCombatBehavior] ([2] browsable assets)...
+[2021.04.10-15.33.29:355][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mutants/Crocodile/AI/Behaviors/BT_CrocodileCombatBehavior]
+[2021.04.10-15.33.29:357][401]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/BT_CrocodileCombatBehavior_Auto1407E6AC14987DBBF9CC2B18B5DE081C1.tmp' to '../../../../../AITestProjec/AITestProject/Saved/Autosaves/Game/Characters/Mutants/Crocodile/AI/Behaviors/BT_CrocodileCombatBehavior_Auto1.uasset'
+[2021.04.10-15.33.29:358][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Abilities/BP_MyAbilityBite] ([1] browsable assets)...
+[2021.04.10-15.33.29:358][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Abilities/BP_MyAbilityBite]
+[2021.04.10-15.33.29:364][401]LogSavePackage: Moving '../../../../../AITestProjec/AITestProject/Saved/BP_MyAbilityBite_Auto13F20266947AFFD7411D9CD8111CDAB83.tmp' to '../../../../../AITestProjec/AITestProject/Saved/Autosaves/Game/AI/Abilities/BP_MyAbilityBite_Auto1.uasset'
+[2021.04.10-15.33.29:364][401]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.04.10-15.33.38:859][646]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-15.33.38:866][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-15.33.38:866][646]PIE: New page: PIE session: ToxicCrocodileMap (10 апр. 2021 г., 21:33:38)
+[2021.04.10-15.33.38:866][646]LogPlayLevel: Creating play world package: /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.33.38:913][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046743s)
+[2021.04.10-15.33.38:914][646]LogAIModule: Creating AISystem for world ToxicCrocodileMap
+[2021.04.10-15.33.38:914][646]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2021.04.10-15.33.38:914][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMaps/ToxicCrocodileMap.ToxicCrocodileMap to /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap (0.047900s)
+[2021.04.10-15.33.38:936][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.04.10-15.33.38:937][646]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.10-15.33.38:937][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-15.33.38:937][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-15.33.38:937][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-15.33.38:937][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-15.33.38:937][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-15.33.38:937][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-15.33.38:937][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-15.33.38:937][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-15.33.38:937][646]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-15.33.38:937][646]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-15.33.38:940][646]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-15.33.38:940][646]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-15.33.38:947][646]LogAudioMixer: Display: Using Audio Device 27GL850 (NVIDIA High Definition Audio)
+[2021.04.10-15.33.38:947][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-15.33.38:947][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-15.33.38:947][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-15.33.38:948][646]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-15.33.38:948][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-15.33.38:948][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-15.33.38:960][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-15.33.38:960][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-15.33.38:960][646]LogInit: FAudioDevice initialized.
+[2021.04.10-15.33.38:960][646]LogAudio: Display: Audio Device (ID: 7) registered with world 'ToxicCrocodileMap'.
+[2021.04.10-15.33.38:968][646]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.10-15.33.38:970][646]LogWorld: Bringing World /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap.ToxicCrocodileMap up for play (max tick rate 60) at 2021.04.10-18.33.38
+[2021.04.10-15.33.38:970][646]LogWorld: Bringing up level for play took: 0.001257
+[2021.04.10-15.33.38:970][646]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.04.10-15.33.38:972][646]PIE: Server logged in
+[2021.04.10-15.33.38:973][646]PIE: Play in editor total start time 0,11 seconds.
+[2021.04.10-15.33.48:246][920]LogEQS: Error: Trying to spawn a query with broken Template (generator:N/A itemType:N/A): EQS_CrocodileAttackPosition_SingleResult, option 0
+[2021.04.10-15.33.48:246][920]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.49:321][952]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.50:394][984]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.51:467][ 16]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.52:541][ 48]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.53:614][ 80]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.54:687][112]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.55:761][144]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.56:835][176]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.57:909][208]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.33.58:982][240]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.00:056][272]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.01:130][304]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.02:204][336]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.03:277][368]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.04:351][400]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.05:425][432]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.06:498][464]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.07:572][496]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.08:647][528]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.09:721][560]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.10:794][592]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: BP_ToxicCrocodile_2
+[2021.04.10-15.34.11:500][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.34.11:500][612]LogWorld: BeginTearingDown for /Game/TestMaps/UEDPIE_0_ToxicCrocodileMap
+[2021.04.10-15.34.11:500][612]LogWorld: UWorld::CleanupWorld for ToxicCrocodileMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-15.34.11:500][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.34.11:521][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-15.34.11:553][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-15.34.11:574][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-15.34.11:574][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.34.11:575][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-15.34.11:591][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.04.10-15.34.11:634][613]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.04.10-15.34.13:164][660]LogEditorViewport: Clicking on Actor (LMB): EQS_TestingPawn_C (EQS_TestingPawn)
+[2021.04.10-15.34.34:816][488]LogEQS: Error: Trying to spawn a query with broken Template (generator:N/A itemType:N/A): EQS_CrocodileAttackPosition_AllMatching, option 0
+[2021.04.10-15.34.34:816][488]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.34.37:169][629]LogEQS: Error: Trying to spawn a query with broken Template (generator:N/A itemType:N/A): EQS_CrocodileAttackPosition_AllMatching, option 0
+[2021.04.10-15.34.37:169][629]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_CrocodileAttackPosition - Owner: EQS_TestingPawn_2
+[2021.04.10-15.34.46:991][882]LogWindows: Error: === Critical error: ===
+[2021.04.10-15.34.46:991][882]LogWindows: Error: 
+[2021.04.10-15.34.46:991][882]LogWindows: Error: Fatal error!
+[2021.04.10-15.34.46:991][882]LogWindows: Error: 
+[2021.04.10-15.34.46:991][882]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000030
+[2021.04.10-15.34.46:991][882]LogWindows: Error: 
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffea1f5f0fb UE4Editor-AIModule.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffea1f85019 UE4Editor-AIModule.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffec6d54ff0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb43d6d44 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb43bf04a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb43bf598 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb441a098 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb441a88f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb44194ca UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb452124c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb44efbc5 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeb44c1c07 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffec7514679 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffec74e3247 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffec75145a7 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeccb9405f UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeccb73a21 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeccbf81b0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeccbe0367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffeccbd3642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffed78abca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffed7899197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffed78ae379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffed7894310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007fff281ee858 USER32.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007fff281ee299 USER32.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ffed78af904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ff7c2b08857 UE4Editor.exe!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ff7c2b211ac UE4Editor.exe!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ff7c2b2128a UE4Editor.exe!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ff7c2b352ed UE4Editor.exe!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007ff7c2b3801a UE4Editor.exe!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007fff28447034 KERNEL32.DLL!UnknownFunction []
+[2021.04.10-15.34.46:991][882]LogWindows: Error: [Callstack] 0x00007fff29ec2651 ntdll.dll!UnknownFunction []
+[2021.04.10-15.34.46:992][882]LogWindows: Error: 
+[2021.04.10-15.34.47:004][882]LogExit: Executing StaticShutdownAfterError
+[2021.04.10-15.34.47:010][882]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.04.10-15.34.47:010][882]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.04.10-15.34.47:013][882]Log file closed, 04/10/21 18:34:47
